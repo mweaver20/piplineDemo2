@@ -1,4 +1,4 @@
 FROM openjdk:8
-ADD target/moProject.jar moProject.jar
-ENTRYPOINT ["java", "-jar","moProject.jar"]
+ADD target/moPipeline.jar moPipeline.jar
+ENTRYPOINT ["java", "-jar","moPipeline.jar"]
 EXPOSE 8080
