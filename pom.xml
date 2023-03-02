@@ -51,6 +51,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>moPipeline</finalName>
+        <finalName>mo-pipeline</finalName>
     </build>
 </project>
